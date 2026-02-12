@@ -1,7 +1,7 @@
 {
   "name": "@tower-supplies/validator.js",
   "description": "Validation library inspired by Laravel's Validator",
-  "version": "5.1.4",
+  "version": "5.1.5",
   "author": "Adrian Stokes <adrian.stokes@towersupplies.com>",
   "contributors": [
     {
